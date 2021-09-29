@@ -1,4 +1,4 @@
-# Random Advice workflow
+# Random Advice Workflow
 
 <p align="center">
 <a target="_blank" href="https://ashutoshkrris.com/" alt="Advice demo"><img src="./assests/images/quoteDemo.png"></img></a>

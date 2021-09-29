@@ -5,3 +5,7 @@ description: 'Add Random Advice in README'
 runs:
   using: node12
   main: index.js
+
+branding:
+  icon: 'play'
+  color: 'green'

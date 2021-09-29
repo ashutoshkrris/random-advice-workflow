@@ -1,0 +1,7 @@
+name: 'Random Advice Workflow'
+author: 'Ashutosh Krishna'
+description: 'Add Random Advice in README'
+
+runs:
+  using: node12
+  main: index.js

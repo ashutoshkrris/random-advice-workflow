@@ -1,0 +1,24 @@
+{
+  "name": "random-advice-workflow",
+  "version": "1.0.0",
+  "description": "Add Random Advice in README",
+  "main": "index.js",
+  "scripts": {
+    "Run random-advice-workflow": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashutoshkrris/random-advice-workflow.git"
+  },
+  "keywords": [
+    "Random Advice",
+    "Workflow",
+    "README"
+  ],
+  "author": "Ashutosh Krishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashutoshkrris/random-advice-workflow/issues"
+  },
+  "homepage": "https://github.com/ashutoshkrris/random-advice-workflow#readme"
+}

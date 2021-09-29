@@ -13,7 +13,7 @@
 
 1. Star this repo 😛
 1. Go to your repository
-1. Add the following section to your **README.md** file.<br>Just make sure that you use `<!-- ADVICE:START --><!-- ADVICE:END -->` in your readme.<br>The workflow will replace this comment with the amazing quotes: 
+1. Add the following section to your **README.md** file.<br>Just make sure that you use `<!-- ADVICE:START --><!-- ADVICE:END -->` in your readme.<br>The workflow will replace this comment with the amazing advice: 
     ```markdown
     <!-- ADVICE:START -->
     <!-- ADVICE:END -->
